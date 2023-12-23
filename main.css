@@ -1,0 +1,12 @@
+.demo {
+    background-color: red;
+    width: fit-content;
+    height: fit-content;
+}
+
+.vip {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+}
